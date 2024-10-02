@@ -12,3 +12,4 @@ so lets see how it goes!
 Oct 02
 Firebase back-end is done and working the way i want it to work.
 All that is left is to improve the UI the i will submit this project.
+Getting drop-box to run lately has been very challenging and suer annoying. 
