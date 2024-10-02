@@ -10,3 +10,4 @@ and that is the mission of today , to finish and submit my drop-box application.
 so lets see how it goes!
 
 Oct 02
+Firebase back-end is done and working the way i want it to work.
