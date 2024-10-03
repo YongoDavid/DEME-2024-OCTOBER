@@ -16,3 +16,4 @@ Getting drop-box to run lately has been very challenging and suer annoying.
 But i still need to figure it out.
 
 Oct 03
+Docode has alot of issues and has been pissing me off when it come to runing my drop-box application.
