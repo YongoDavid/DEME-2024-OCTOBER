@@ -22,3 +22,4 @@ For now i will be focusing on the upcoming assestement that i have.
 
 0ct 05
 Doing my test gorilla test today , the test is on Kolin , React and Node.js
+After the test i will go back to Docode and finish up my drop-box.
