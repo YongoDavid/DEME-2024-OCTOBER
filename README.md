@@ -21,3 +21,4 @@ i will just host the project from my local machine to github and then host on ve
 For now i will be focusing on the upcoming assestement that i have.
 
 0ct 05
+Doing my test gorilla test today , the test is on Kolin , React and Node.js
