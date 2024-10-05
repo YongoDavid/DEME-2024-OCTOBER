@@ -19,3 +19,5 @@ Oct 03
 Docode has alot of issues and has been pissing me off when it come to runing my drop-box application.
 i will just host the project from my local machine to github and then host on vercel then submit.
 For now i will be focusing on the upcoming assestement that i have.
+
+0ct 05
