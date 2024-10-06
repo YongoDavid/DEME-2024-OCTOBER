@@ -26,3 +26,4 @@ After the test i will go back to Docode and finish up my drop-box.
 
 Oct 06
 New day new grind!
+Sunday is still a work day.
