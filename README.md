@@ -25,3 +25,4 @@ Doing my test gorilla test today , the test is on Kolin , React and Node.js
 After the test i will go back to Docode and finish up my drop-box.
 
 Oct 06
+New day new grind!
