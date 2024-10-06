@@ -29,3 +29,4 @@ New day new grind!
 Sunday is still a work day.
 
 Oct 07
+New week , same grind.
