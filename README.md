@@ -32,3 +32,4 @@ Oct 07
 New week , same grind.
 
 Oct 09
+i have been making actual commits intead of updates here so thats good.
