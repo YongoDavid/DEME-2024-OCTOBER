@@ -33,4 +33,5 @@ New week , same grind.
 
 Oct 09
 new day , same grind.
+back to my midmind dose.
 i have been making actual commits intead of updates here so thats good.
