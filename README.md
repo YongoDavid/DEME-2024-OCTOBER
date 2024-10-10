@@ -33,7 +33,8 @@ New week , same grind.
 
 Oct 09
 new day , same grind.
-back to my midmind dose.
+back to my midnight dose.
 i have been making actual commits intead of updates here so thats good.
 
 Oct 10
+Been a crazy week soo far , but i have finally submitted my drop-box application.
