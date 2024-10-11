@@ -40,3 +40,5 @@ Oct 10
 Been a crazy week soo far , but i have finally submitted my drop-box application.
 time to move on and start uploading projects to myy portfoilio and cv.
 And then built the Forex application for Noel and work on learning something new.
+
+Oct 11
