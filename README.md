@@ -42,3 +42,4 @@ time to move on and start uploading projects to myy portfoilio and cv.
 And then built the Forex application for Noel and work on learning something new.
 
 Oct 11
+My dropbox got application got rejected and i was able to make the corrections for it and submitted it again.
