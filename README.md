@@ -47,4 +47,4 @@ i added new features as well and improved the applications functionality.
 
 Oct 13
 My github commit history has not been organized lately , so i can to go back to regular updates.
-i have to help zetech solutions with its Node.js issues (Very good chance to show myy node sills)
+i have to help zetech solutions with its Node.js issues (Very good chance to show my node skills)
