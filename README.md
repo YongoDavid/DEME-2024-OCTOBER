@@ -44,3 +44,5 @@ And then built the Forex application for Noel and work on learning something new
 Oct 11
 My dropbox got application got rejected and i was able to make the corrections for it and submitted it again.
 i added new features as well and improved the applications functionality.
+
+Oct 13
