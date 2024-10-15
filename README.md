@@ -55,3 +55,5 @@ My drop-box project has been rejected again and i dont know why.(The reviewer di
 i will test this application again and re-submit if there are no issues.
 Also i have to imporove the UI of the projects i have completed. 
 And update my portfolio with the new projects.
+
+Oct 15
