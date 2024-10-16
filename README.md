@@ -61,3 +61,4 @@ Time for the mid-night dose
 
 Oct 16
 New day , new midnight dose.
+Finally resolved the backend issue for Zetech solutions ecommerce application.
