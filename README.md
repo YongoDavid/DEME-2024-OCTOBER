@@ -66,3 +66,4 @@ Also started the Noel project.
 
 Oct 17
 In the Noel project i have decaded to use ChakraUI and its UI components.
+Because of this , i am currently learing ChakraUI so i can use it very well in this project.
