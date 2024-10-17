@@ -63,3 +63,5 @@ Oct 16
 New day , new midnight dose.
 Finally resolved the backend issue for Zetech solutions ecommerce application.
 Also started the Noel project.
+
+Oct 17
