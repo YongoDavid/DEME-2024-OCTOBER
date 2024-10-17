@@ -65,3 +65,4 @@ Finally resolved the backend issue for Zetech solutions ecommerce application.
 Also started the Noel project.
 
 Oct 17
+In the Noel project i have decaded to use ChakraUI and its UI components.
