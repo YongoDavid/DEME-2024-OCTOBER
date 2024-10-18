@@ -70,3 +70,4 @@ Because of this , i am currently learing ChakraUI so i can use it very well in t
 
 Oct 18
 My Drop-box project has finally been approved and i have gotten my certificate for season3 front-end.
+Learning chakra UI and its a bit challenging but very interesting.
