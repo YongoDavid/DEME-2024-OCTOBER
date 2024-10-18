@@ -72,3 +72,4 @@ Oct 18
 My Drop-box project has finally been approved and i have gotten my certificate for season3 front-end.
 Learning chakra UI and its a bit challenging but very interesting.
 it make creating styling much easier and functional.
+I just need to keep practing with it and using it too built other projects.
