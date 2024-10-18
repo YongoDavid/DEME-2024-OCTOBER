@@ -69,3 +69,4 @@ In the Noel project i have decaded to use ChakraUI and its UI components.
 Because of this , i am currently learing ChakraUI so i can use it very well in this project.
 
 Oct 18
+My Drop-box project has finally been approved and i have gotten my certificate for season3 front-end.
