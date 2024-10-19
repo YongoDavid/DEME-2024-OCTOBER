@@ -77,3 +77,4 @@ I just need to keep practing with it and using it too built other projects.
 Oct 19
 New day same grind , this week was amazing.
 Still learning a bit of chakra(from the website).
+After then i will start to built with what i have learnt then move on to learn other things.
