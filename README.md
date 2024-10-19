@@ -73,3 +73,6 @@ My Drop-box project has finally been approved and i have gotten my certificate f
 Learning chakra UI and its a bit challenging but very interesting.
 it make creating styling much easier and functional.
 I just need to keep practing with it and using it too built other projects.
+
+Oct 19
+
