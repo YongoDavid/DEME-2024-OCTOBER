@@ -75,4 +75,4 @@ it make creating styling much easier and functional.
 I just need to keep practing with it and using it too built other projects.
 
 Oct 19
-
+New day same grind , this week was amazing.
