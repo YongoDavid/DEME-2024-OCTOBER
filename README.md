@@ -81,3 +81,6 @@ After then i will start to built with what i have learnt then move on to learn o
 
 Oct 20
 Sunday chill day , but i will still put in some work in.
+
+Oct 21
+
