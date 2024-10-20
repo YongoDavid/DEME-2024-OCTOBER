@@ -83,4 +83,4 @@ Oct 20
 Sunday chill day , but i will still put in some work in.
 
 Oct 21
-
+New week , new grind!
