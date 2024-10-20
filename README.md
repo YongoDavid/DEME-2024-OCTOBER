@@ -84,3 +84,4 @@ Sunday chill day , but i will still put in some work in.
 
 Oct 21
 New week , new grind!
+Lets practice more chakra that i have learnt and then Build with is as well.
