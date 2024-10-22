@@ -87,4 +87,4 @@ New week , new grind!
 Lets practice more chakra that i have learnt and then Build with is as well.
 
 Oct 22
-
+new day ,same grind
