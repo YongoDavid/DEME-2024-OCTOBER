@@ -89,3 +89,4 @@ Lets practice more chakra that i have learnt and then Build with is as well.
 Oct 22
 new day ,same grind
 yesterday was a crazy one cause i did not have good service but we still moving.
+today we will continue with chakra and finish revisiting the resource i was using to learn.
