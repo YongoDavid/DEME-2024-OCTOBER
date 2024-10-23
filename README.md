@@ -92,4 +92,4 @@ yesterday was a crazy one cause i did not have good service but we still moving.
 today we will continue with chakra and finish revisiting the resource i was using to learn.
 
 Oct 23
-
+New day , same grind.
