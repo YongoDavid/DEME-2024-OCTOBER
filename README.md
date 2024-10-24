@@ -94,3 +94,6 @@ today we will continue with chakra and finish revisiting the resource i was usin
 Oct 23
 New day , same grind.
 i am still trying to finish up my chakra reviision then i will go back to building my Noel project.
+
+Oct 24
+
