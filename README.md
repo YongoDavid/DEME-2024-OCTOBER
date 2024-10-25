@@ -98,3 +98,6 @@ i am still trying to finish up my chakra reviision then i will go back to buildi
 Oct 24
 New day , same grind.
 The Noel project is giving me alot of issuses , i am still trying to resolve it.
+
+Oct 25
+
