@@ -100,4 +100,4 @@ New day , same grind.
 The Noel project is giving me alot of issuses , i am still trying to resolve it.
 
 Oct 25
-
+New day , same grind
