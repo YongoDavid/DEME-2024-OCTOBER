@@ -101,3 +101,4 @@ The Noel project is giving me alot of issuses , i am still trying to resolve it.
 
 Oct 25
 New day , same grind
+Chakra has updated too v3 and i need to update my current version of node to be able to use it.
