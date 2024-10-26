@@ -106,3 +106,5 @@ i was having some issues updaing my node yesterday , but it has been resolved no
 
 Oct 26
 New day ,same grind.
+the new version of node has been installed and is working now.
+i still need to test chakra and why it is not still working on my project.
