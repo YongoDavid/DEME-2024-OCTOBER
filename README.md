@@ -105,3 +105,4 @@ Chakra has updated too v3 and i need to update my current version of node to be 
 i was having some issues updaing my node yesterday , but it has been resolved now.
 
 Oct 26
+New day ,same grind.
