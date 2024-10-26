@@ -108,3 +108,4 @@ Oct 26
 New day ,same grind.
 the new version of node has been installed and is working now.
 i still need to test chakra and why it is not still working on my project.
+Also i need to update my portfolio with my qwasar projects.
