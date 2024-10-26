@@ -103,3 +103,5 @@ Oct 25
 New day , same grind
 Chakra has updated too v3 and i need to update my current version of node to be able to use it.
 i was having some issues updaing my node yesterday , but it has been resolved now.
+
+Oct 26
