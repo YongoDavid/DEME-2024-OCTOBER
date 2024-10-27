@@ -111,3 +111,4 @@ i still need to test chakra and why it is not still working on my project.
 Also i need to update my portfolio with my qwasar projects.
 
 Oct 27
+New day , new grind.
