@@ -117,3 +117,5 @@ Suday , chill day
 Oct 28
 it is a new week and its a new grind.
 i will be focusing on updating my portoflio this week with three projects i worked on from Qwasar.
+i will be uploading Basecamp(Teams) , Instagram and DropBox.
+
