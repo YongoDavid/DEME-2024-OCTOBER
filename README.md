@@ -112,3 +112,5 @@ Also i need to update my portfolio with my qwasar projects.
 
 Oct 27
 New day , new grind.
+Suday , chill day
+
