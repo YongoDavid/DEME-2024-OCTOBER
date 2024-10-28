@@ -115,5 +115,5 @@ New day , new grind.
 Suday , chill day
 
 Oct 28
-
+it is a new week and its a new grind.
 
