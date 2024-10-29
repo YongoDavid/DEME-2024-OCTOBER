@@ -119,3 +119,6 @@ it is a new week and its a new grind.
 i will be focusing on updating my portoflio this week with three projects i worked on from Qwasar.
 i will be uploading Basecamp(Teams) , Instagram and DropBox.
 The noel project is still pending but i will be working on it on the side lines.
+
+Oct 29
+
