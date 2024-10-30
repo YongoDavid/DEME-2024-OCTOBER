@@ -122,3 +122,5 @@ The noel project is still pending but i will be working on it on the side lines.
 
 Oct 29
 New day , same grind.
+
+Oct 30
