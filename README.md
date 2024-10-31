@@ -128,4 +128,4 @@ New day , same grind!!
 i am still working on the UI for my basecamp/Teams project.
 
 Oct 31
-
+Another day , another grind.
