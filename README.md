@@ -129,3 +129,4 @@ i am still working on the UI for my basecamp/Teams project.
 
 Oct 31
 Another day , another grind.
+i need to remind my brain about somethings in react that i havent used in a while , so i will brush up on that.
