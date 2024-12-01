@@ -5,18 +5,18 @@ In both good time (when i feel like ) and not soo good times(when i do not feel 
 
 Oct 01
 New day , new gring !!!
-My qwasar drop-box application seems to be working well now but there are a few thing that i need to work on
+My qwasar drop-box application seems to be working well now but there are a few things that i need to work on
 and that is the mission of today , to finish and submit my drop-box application.
 so lets see how it goes!
 
 Oct 02
 Firebase back-end is done and working the way i want it to work.
 All that is left is to improve the UI the i will submit this project.
-Getting drop-box to run lately has been very challenging and suer annoying. 
+Getting drop-box to run lately has been very challenging and very annoying. 
 But i still need to figure it out.
 
 Oct 03
-Docode has alot of issues and has been pissing me off when it come to runing my drop-box application.
+Docode has alot of issues and has been pissing me off when it come to running my drop-box application.
 i will just host the project from my local machine to github and then host on vercel then submit.
 For now i will be focusing on the upcoming assestement that i have.
 
@@ -38,11 +38,11 @@ i have been making actual commits intead of updates here so thats good.
 
 Oct 10
 Been a crazy week soo far , but i have finally submitted my drop-box application.
-time to move on and start uploading projects to myy portfoilio and cv.
-And then built the Forex application for Noel and work on learning something new.
+time to move on and start uploading projects to my portfoilio and cv.
+And then build the Forex application for Noel and work on learning something new.
 
 Oct 11
-My dropbox got application got rejected and i was able to make the corrections for it and submitted it again.
+My dropbox application got rejected and i was able to make the corrections for it and submitted it again.
 i added new features as well and improved the applications functionality.
 
 Oct 13
@@ -53,7 +53,7 @@ Oct 14
 New day , same grind.
 My drop-box project has been rejected again and i dont know why.(The reviewer did not leave any comment)
 i will test this application again and re-submit if there are no issues.
-Also i have to imporove the UI of the projects i have completed. 
+Also i have to improve the UI of the projects i have completed. 
 And update my portfolio with the new projects.
 
 Oct 15
@@ -72,7 +72,7 @@ Oct 18
 My Drop-box project has finally been approved and i have gotten my certificate for season3 front-end.
 Learning chakra UI and its a bit challenging but very interesting.
 it make creating styling much easier and functional.
-I just need to keep practing with it and using it too built other projects.
+I just need to keep practing with it and using it too build other projects.
 
 Oct 19
 New day same grind , this week was amazing.
@@ -93,7 +93,7 @@ today we will continue with chakra and finish revisiting the resource i was usin
 
 Oct 23
 New day , same grind.
-i am still trying to finish up my chakra reviision then i will go back to building my Noel project.
+i am still trying to finish up my chakra revision then i will go back to building my Noel project.
 
 Oct 24
 New day , same grind.
@@ -101,7 +101,7 @@ The Noel project is giving me alot of issuses , i am still trying to resolve it.
 
 Oct 25
 New day , same grind
-Chakra has updated too v3 and i need to update my current version of node to be able to use it.
+Chakra has updated to v3 and i need to update my current version of node to be able to use it.
 i was having some issues updaing my node yesterday , but it has been resolved now.
 
 Oct 26
@@ -116,7 +116,7 @@ Suday , chill day
 
 Oct 28
 it is a new week and its a new grind.
-i will be focusing on updating my portoflio this week with three projects i worked on from Qwasar.
+i will be focusing on updating my portfolio this week with three projects i worked on from Qwasar.
 i will be uploading Basecamp(Teams) , Instagram and DropBox.
 The noel project is still pending but i will be working on it on the side lines.
 
